@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bhancockio-adk-mcp-tutorial-badge.png)](https://mseep.ai/app/bhancockio-adk-mcp-tutorial)
+
 # ADK Agent MCP Server
 
 This project demonstrates an Agent Development Kit (ADK) agent that interacts with a local SQLite database. The interaction is facilitated by a Model Context Protocol (MCP) server that exposes tools to query and modify the database.
